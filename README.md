@@ -16,7 +16,7 @@ To use this custom theme in your Bootstrap project, follow these steps:
 
 Clone the repository:
 
-git clone https://github.com/yourusername/custom-shadcn-bootstrap-theme.git
+git clone https://github.com/samueleruggeri/custom-shadcn-bootstrap-theme.git
 
 Include the CSS file in your HTML:
 
