@@ -1,0 +1,187 @@
+/* ========== Light Theme ========== */
+
+/* Light Card */
+.card-light {
+    background-color: #f8f9fa !important;
+    border-color: #dee2e6 !important;
+    color: #343a40 !important;
+    padding: 1rem !important;
+}
+
+.card-light:hover {
+    background-color: #e2e6ea !important;
+}
+
+/* Custom Buttons */
+.btn-light {
+    background-color: #f8f9fa !important;
+    border-color: #ced4da !important;
+    color: #495057 !important;
+    padding: 0.375rem 0.75rem !important;
+}
+
+.btn-light:hover {
+    background-color: #e9ecef !important;
+    border-color: #adb5bd !important;
+}
+
+/* Light Input, Textbox, and Select */
+.input-light, .textbox-light, .select-light {
+    background-color: #f8f9fa !important;
+    border-color: #ced4da !important;
+    color: #495057 !important;
+    padding: 0.375rem 0.75rem !important;
+}
+
+.input-light:hover, .textbox-light:hover, .select-light:hover {
+    background-color: #e9ecef !important;
+}
+
+.input-light:focus, .textbox-light:focus, .select-light:focus {
+    background-color: #ffffff !important;
+    border-color: #80bdff !important;
+    outline: none !important;
+    box-shadow: 0 0 0 0.2rem rgba(0, 123, 255, 0.25) !important;
+}
+
+/* Light Navbar */
+.navbar-light {
+    background-color: #f8f9fa !important;
+}
+
+.navbar-light .navbar-nav .nav-link {
+    color: #495057 !important;
+}
+
+.navbar-light .navbar-nav .nav-link:hover {
+    color: #343a40 !important;
+}
+
+/* Light Alert */
+.alert-light {
+    background-color: #f8f9fa !important;
+    color: #495057 !important;
+    border-color: #dee2e6 !important;
+}
+
+/* Light Modal */
+.modal-content-light {
+    background-color: #ffffff !important;
+    color: #343a40 !important;
+    border: 1px solid #dee2e6 !important;
+}
+
+/* ========== Dark Theme ========== */
+
+/* Dark Card */
+.card-dark {
+    background-color: #343a40 !important;
+    border-color: #454d55 !important;
+    color: #f8f9fa !important;
+    padding: 1rem !important;
+}
+
+.card-dark:hover {
+    background-color: #495057 !important;
+}
+
+/* Custom Buttons */
+.btn-dark {
+    background-color: #343a40 !important;
+    border-color: #454d55 !important;
+    color: #f8f9fa !important;
+    padding: 0.375rem 0.75rem !important;
+}
+
+.btn-dark:hover {
+    background-color: #495057 !important;
+    border-color: #5a6268 !important;
+}
+
+/* Dark Input, Textbox, and Select */
+.input-dark, .textbox-dark, .select-dark {
+    background-color: #343a40 !important;
+    border-color: #454d55 !important;
+    color: #f8f9fa !important;
+    padding: 0.375rem 0.75rem !important;
+}
+
+.input-dark:hover, .textbox-dark:hover, .select-dark:hover {
+    background-color: #495057 !important;
+}
+
+.input-dark:focus, .textbox-dark:focus, .select-dark:focus {
+    background-color: #343a40 !important;
+    border-color: #80bdff !important;
+    outline: none !important;
+    box-shadow: 0 0 0 0.2rem rgba(0, 123, 255, 0.25) !important;
+}
+
+/* Dark Navbar */
+.navbar-dark {
+    background-color: #343a40 !important;
+}
+
+.navbar-dark .navbar-nav .nav-link {
+    color: #f8f9fa !important;
+}
+
+.navbar-dark .navbar-nav .nav-link:hover {
+    color: #ffffff !important;
+}
+
+/* Dark Alert */
+.alert-dark {
+    background-color: #343a40 !important;
+    color: #f8f9fa !important;
+    border-color: #454d55 !important;
+}
+
+/* Dark Modal */
+.modal-content-dark {
+    background-color: #495057 !important;
+    color: #f8f9fa !important;
+    border: 1px solid #5a6268 !important;
+}
+
+/* ========== Form ========== */
+
+/* Light Form */
+.form-light {
+    background-color: #f8f9fa !important;
+    color: #495057 !important;
+    padding: 1rem !important;
+}
+
+.form-light label {
+    color: #343a40 !important;
+}
+
+/* Dark Form */
+.form-dark {
+    background-color: #343a40 !important;
+    color: #f8f9fa !important;
+    padding: 1rem !important;
+}
+
+.form-dark label {
+    color: #f8f9fa !important;
+}
+
+/* ========== Border Color ========== */
+.border-light {
+    border-color: #dee2e6 !important;
+}
+
+.border-dark {
+    border-color: #454d55 !important;
+}
+
+/* Border Color Hover Effects */
+.hover\:border-light:hover {
+    border-color: #adb5bd !important;
+}
+
+.hover\:border-dark:hover {
+    border-color: #5a6268 !important;
+}
