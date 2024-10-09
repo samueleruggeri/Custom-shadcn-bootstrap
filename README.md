@@ -10,7 +10,8 @@ This repository contains a custom CSS stylesheet that integrates Shadcn's design
 - Simple class naming conventions for ease of use.
 
 ##THEMES
-![Themes](https://github.com/samueleruggeri/Windows-Cleaner/blob/main/windows_cleaner.png)
+![Theme Light](https://github.com/samueleruggeri/Custom-shadcn-bootstrap/blob/main/Light%20Theme.png)
+![Theme Dark](https://github.com/samueleruggeri/Custom-shadcn-bootstrap/blob/main/Dark%20Theme.png)
 
 ##Installation
 
