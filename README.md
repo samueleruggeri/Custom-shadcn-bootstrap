@@ -11,6 +11,7 @@ This repository contains a custom CSS stylesheet that integrates Shadcn's design
 
 ##THEMES
 ![Theme Light](https://github.com/samueleruggeri/Custom-shadcn-bootstrap/blob/main/Light%20Theme.png)
+
 ![Theme Dark](https://github.com/samueleruggeri/Custom-shadcn-bootstrap/blob/main/Dark%20Theme.png)
 
 ##Installation
