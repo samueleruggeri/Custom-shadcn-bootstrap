@@ -1,4 +1,4 @@
-#Custom Shadcn Bootstrap Theme
+Custom Shadcn Bootstrap Theme
 
 This repository contains a custom CSS stylesheet that integrates Shadcn's design system with Bootstrap components, tailored for both light and dark themes. The stylesheet provides a consistent look and feel across various Bootstrap components by applying Shadcn's colors and styles.
 
