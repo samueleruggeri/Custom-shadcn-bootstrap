@@ -157,10 +157,37 @@
 }
 
 /* Form */
-.form-shadcn {
-    display: flex;
-    flex-direction: column;
-    gap: 1rem;
+.card-shadcn-light {
+    padding: var(--padding);
+    background-color: #f3f4f6;
+    color: #000000;
+    border-color:#e5e7eb;
+    border-radius: var(--border-radius);
+}
+
+.card--shadcn-dark {
+    padding: var(--padding);
+    background-color: #27272a;
+    color: #ffffff;
+    border-color: #27272a;
+    border-radius: var(--border-radius);
+}
+
+/* Form */
+.form-shadcn-light {
+    padding: var(--padding);
+    background-color: #f3f4f6;
+    color: #000000;
+    border-color:#e5e7eb;
+    border-radius: var(--border-radius);
+}
+
+.form-shadcn-dark {
+    padding: var(--padding);
+    background-color: #27272a;
+    color: #ffffff;
+    border-color: #27272a;
+    border-radius: var(--border-radius);
 }
 
 /* Table */
